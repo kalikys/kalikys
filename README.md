@@ -2,7 +2,7 @@
 
 I build Kubernetes platforms, GitLab CI/CD pipelines and infrastructure automation with Ansible and Terraform. For the last 4.5 years that has mostly meant banks and government agencies, including fully air-gapped environments, with SAST, DAST and SCA checks built into the pipelines.
 
-I live in Tbilisi, Georgia (GMT+4), and I'm **open to offers now**: remote work for a company in any country, full-time, B2B or contract.
+I live in Tbilisi, Georgia (GMT+4), and I'm **open to offers now**: remote work for a company in any country or relocation to the US, the EU or Cyprus; full-time, B2B or contract.
 
 **CV:** [kalik8s.com](https://kalik8s.com/?utm_source=github&utm_medium=profile&utm_campaign=jobsearch) · **Email:** kalikys@outlook.com · **Telegram:** [@kalikys](https://t.me/kalikys) · **LinkedIn:** [devops-kalislav-smirnov](https://www.linkedin.com/in/devops-kalislav-smirnov/)
 
